@@ -1,0 +1,2 @@
+# MiniProgram.Views
+MiniProgram frontend
